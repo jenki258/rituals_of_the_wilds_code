@@ -1,6 +1,6 @@
 # 🌿 Rituals of the Wilds Mod
 
-**BioForge** is a custom Minecraft mod created using [MCreator](https://mcreator.net), themed around biological and scientific gameplay enhancements.
+**Rituals of the Wilds** is a custom Minecraft mod created using [MCreator](https://mcreator.net), themed around mythical and ritual gameplay enhancements.
 
 > ⚠️ **This mod only works with MCreator version 2024.2.** Do not attempt to open or modify it in other versions.
 
