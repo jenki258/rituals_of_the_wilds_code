@@ -22,7 +22,7 @@ You will receive two `.rar` archives, each containing one folder:
 ## 🔗 Workspace Download
 
 🔽 Download the **Rituals of the wilds Workspace `.rar`** from Google Drive:  
-**[Download Link Here](https://drive.google.com/file/d/1iDjoEgSPeIL8ylBhc6vZnouzZQ6FVvih/view?usp=sharing)**  
+**[Download Link Here](https://drive.google.com/file/d/1kDmogLsAEcB5I1mkJcKNjh264MJpBy4G/view?usp=sharing)**  
 
 ---
 
